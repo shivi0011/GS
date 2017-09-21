@@ -48,15 +48,15 @@ The law ministry has given its concurrence to the draft Fugitive Economic Offend
 Saving clause is the new provision that the Law Ministry wants to be incorporated in the Fugitive Economic Offenders Bill, 2017. A saving clause provides for certain exception(s) in a statute. It enables the repealed law to be in force with respect to some existing rights.
 
 Highlights of the Bill:
-
+-------------------------
 The bill flows from Finance Minister Arun Jaitleys 2017 -18 Budget speech promising legislative changes or even a new law to confiscate the assets of such fugitives.
 
-    It seeks to deter economic offenders from evading the process of Indian law by fleeing the country.
-    The proposed law will be applicable in cases where the value of offences is over Rs 100 crore.
-    The bill proposes to allow the Financial Intelligence Unit (FIU), the premier technical snoop wing under the finance ministry, to file an application for the declaration of fugitive economic offender for confiscation of their assets.
-    The courts under PMLA would be entrusted with the responsibility to try the case.
-    Also, the bill has provision for appointment of an administrator to dispose off the property to pay off the creditors. Besides, the provisions of the proposed law will override provisions of other existing laws.
-    Also, the burden of proof for establishing that an individual is a fugitive economic offender will be on the authorities.
+It seeks to deter economic offenders from evading the process of Indian law by fleeing the country.
+The proposed law will be applicable in cases where the value of offences is over Rs 100 crore.
+The bill proposes to allow the Financial Intelligence Unit (FIU), the premier technical snoop wing under the finance ministry, to file an application for the declaration of fugitive economic offender for confiscation of their assets.
+The courts under PMLA would be entrusted with the responsibility to try the case.
+Also, the bill has provision for appointment of an administrator to dispose off the property to pay off the creditors. Besides, the provisions of the proposed law will override provisions of other existing laws.
+Also, the burden of proof for establishing that an individual is a fugitive economic offender will be on the authorities.
 
 Need for a law in this regard:
 
@@ -80,6 +80,7 @@ India shares a 1,751-km-long border with Nepal and a 699 -km-long border with Bh
 In all 7 is coming.
 ------------------------
 CIBMS:
+----------
 
 At the moment, BSF is working on a Comprehensive Integrated Border Management System (CIBMS) which will be deployed along the International Border with Pakistan. CIBMS is expected to counter infiltration and cross-border terror attacks. The system employs latest technology which would detect infiltration via land, underwater, air and tunnels.
 
@@ -102,7 +103,7 @@ Need for a separate intelligence wing:
 
 The SSB has been mandated to guard the Indo-Nepal and Indo-Bhutan borders where there are no restrictions on the movement of people on either side. These borders are often used by criminals and Kashmiri militants returning from Pakistan. India shares a 1,751-km-long border with Nepal and a 699 -km-long border with Bhutan.
 
-    The SSB has also been declared as the lead intelligence agency for both the borders. Thus, the central government felt that a well-knit intelligence network of the highest capability that can function and deliver would be the prime requirement for comprehensive border management.
+ The SSB has also been declared as the lead intelligence agency for both the borders. Thus, the central government felt that a well-knit intelligence network of the highest capability that can function and deliver would be the prime requirement for comprehensive border management.
     This was also essential as the SSB’s operations are based on intelligence to prevent criminals and smugglers from taking advantage of the friendly borders with Nepal and Bhutan.
 
 Facts for Prelims: The border with Nepal touches Uttarakhand, Uttar Pradesh, Bihar, West Bengal and Sikkim 
@@ -115,7 +116,7 @@ The Sashastra Seema Bal (SSB) is a paramilitary police force under the Ministry 
 
 What is the primary role of the SSB?
 
-    It’s primary role is to physically guard and manage the international border thereby promoting a sense of security and pride amongst the local border population.
+  It’s primary role is to physically guard and manage the international border thereby promoting a sense of security and pride amongst the local border population.
     SSB is the lead intelligence unit for Nepal and Bhutan borders and the coordination agency for national security activities.
     Besides this, SSB undertakes construction of schools, buildings, toilets, roads under border area developmental plan.
     It also gives regular guidance and training to unemployed youth in general studies and physical training.
