@@ -122,6 +122,7 @@ What is the primary role of the SSB?
     In border villages, SSB teaches the border population the best agricultural practices, horticulture, pisiculture etc.
     SSB has also taken up a unique and important task to adopt and fund the education of the girl child in poor villages along the border and teach them unarmed combat training. This is done to eliminate rampant human trafficking of women across the border.
 
+
 Ministry of Home Affairs adopted a uniform nomenclature of Central Armed Police Forces (CAPF) for five forces namely: 
 CRPF, - Central Reserve Police Force 
 BSF, 
